@@ -3,6 +3,11 @@
 
 I am a data analyst with a diverse background that includes philosophy, epistemology, and data science. I have a strong proficiency in various data analysis techniques and programming tools, allowing me to effectively extract valuable insights, detect patterns, and identify trends in extensive datasets. What sets me apart is my passion for leveraging my interdisciplinary knowledge to drive data-driven decision-making and deliver meaningful results.
 
+• Master’s degree in data science at [Assembler Institute of Technology](https://assemblerinstitute.com/).
+
+• Master's degree in Epistemology of Natural and Social Sciences at [Complutense University of Madrid](https://www.ucm.es/).
+
+
 ## 🖥️Languages and Tools:
 
 <p>

@@ -121,7 +121,3 @@ I am a data analyst with a diverse background that includes philosophy, epistemo
 <a href="mailto:lienchinjimenez@gmail.com" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" height="30" width="40" /></a>
 </p>
 
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lienchinjimenez&show_icons=true&locale=en&layout=compact" alt="lienchinjimenez" /></p>

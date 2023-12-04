@@ -100,7 +100,7 @@ I am a data analyst with a diverse background that includes philosophy, epistemo
 
 ## About me:
 
-- 🧠 Artificial Intelligence. I am passionate about integrating philosophical perspectives into the intricate challenges of AI.
+- 🧠 Artificial Intelligence. I am passionate about integrating philosophical perspectives into the challenges of AI.
 
 - 💭 Contemporary philosophers and 📚 fictional literature.
 

@@ -1,4 +1,4 @@
-# Hi👩🏻‍💻🌺
+# 👩🏻‍💻🌺
 
 I am a data analyst with a diverse background that includes philosophy, epistemology, and data science. I have a proficiency in various data analysis techniques and programming tools..
 

@@ -6,6 +6,8 @@ I am a data analyst with a diverse background that includes philosophy, epistemo
 
 • Master's degree in Epistemology of Natural and Social Sciences at [Complutense University of Madrid](https://www.ucm.es/).
 
+• Bachelor of Arts in Philosophy and Letters at Complutense University of Madrid.
+
 
 ## 🖥️Languages and Tools:
 

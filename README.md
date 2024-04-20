@@ -1,5 +1,4 @@
-# Hi, I'm Lien 👩🏻‍💻🌺
-<img src="https://github.com/lienchinjimenez/lienchinjimenez/blob/98d053905d4e109e979abbeb895105e35ae99ed0/Lien_Chin.png" alt="banner that says Lien Chin - Data Analyst">
+# Hi👩🏻‍💻🌺
 
 I am a data analyst with a diverse background that includes philosophy, epistemology, and data science. I have a proficiency in various data analysis techniques and programming tools..
 

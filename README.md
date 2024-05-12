@@ -48,26 +48,6 @@ I am a data analyst with a diverse background that includes philosophy, epistemo
         Seaborn
     </a>
 </p>
-<p>
-        <a href="https://www.r-project.org/" target="_blank" rel="noreferrer" style="display:inline-block;margin-right: 10px;">
-        <img src="https://www.r-project.org/logo/Rlogo.svg" alt="R" width="40" height="40" style="vertical-align:middle;"/>
-        R
-    </a> 
-</p>
-
-<p>
-    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer" style="display:inline-block;margin-right: 10px;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40" style="vertical-align:middle;"/>
-        Scikit-learn
-    </a> 
-</p>
-
-<p>
-    <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer" style="display:inline-block;margin-right: 10px;">
-        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" style="vertical-align:middle;"/>
-        Tensorflow
-    </a> 
-</p>
 
 <p>
     <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer" style="display:inline-block;margin-right: 10px;">
